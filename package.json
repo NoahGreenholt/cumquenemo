@@ -1,0 +1,46 @@
+{
+  "name": "cumquenemo",
+  "version": "1.0.0",
+  "description": "eslint config ready to be used in multiple projects",
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "in",
+    "prettier-config"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "prettier.config.js",
+    "stylelint.js",
+    "stylelint.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NoahGreenholt/cumquenemo.git"
+  },
+  "author": "KeithKozey",
+  "license": "MIT",
+  "homepage": "https://github.com/NoahGreenholt/cumquenemo.git",
+  "peerDependencies": {
+    "babel-eslint": "8.2.3",
+    "eslint": "4.19.1",
+    "prettier": "1.12.1",
+    "stylelint": "9.2.0",
+    "stylelint-config-sass-guidelines": "5.0.0"
+  },
+  "dependencies": {
+    "babel-eslint": "8.2.3",
+    "eslint": "4.19.1",
+    "eslint-config-airbnb": "16.1.0",
+    "eslint-config-prettier": "2.9.0",
+    "eslint-plugin-import": "2.12.0",
+    "eslint-plugin-jest": "21.15.3",
+    "eslint-plugin-jsx-a11y": "6.0.3",
+    "eslint-plugin-prettier": "2.6.0",
+    "eslint-plugin-react": "7.8.2",
+    "prettier": "1.12.1",
+    "stylelint": "9.2.0",
+    "stylelint-config-sass-guidelines": "5.0.0"
+  }
+}
